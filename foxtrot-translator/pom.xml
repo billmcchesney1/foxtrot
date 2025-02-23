@@ -12,7 +12,7 @@
     <artifactId>foxtrot-translator</artifactId>
 
     <properties>
-        <hbase.version>1.2.1</hbase.version>
+        <hbase.version>1.2.3</hbase.version>
     </properties>
 
     <dependencies>
